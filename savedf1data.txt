@@ -1,0 +1,4 @@
+Catalin Toderascu | 20 | ROM | Honda | 13 | 13 | 0 | 0 | 325
+Sebastian Vettel | 34 | GER | Aston Martin | 13 | 0 | 6 | 7 | 213
+Max Verstappen | 24 | NED | Red Bull Racing | 11 | 0 | 7 | 4 | 186
+Lewis Hamilton | 36 | UK | Mercedes | 13 | 0 | 0 | 2 | 162
